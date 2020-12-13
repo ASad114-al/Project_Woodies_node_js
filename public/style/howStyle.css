@@ -1,0 +1,68 @@
+footer
+{
+   margin-top: -13%;
+}
+.howTo
+{ position: absolute;
+    width: 1852px;
+    height: 98px;
+    left: 260px;
+    top: 150px;
+    text-align: center;
+   
+}
+#how
+{
+    position: absolute;
+    width: 454px;
+    height: 49px;
+    left: 138px;
+    top: 225px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    color: #3E3F43;
+}
+#how::before
+{
+    content: url(../img/Group28.png);
+}
+#how_img
+{position: absolute;
+    width: 579px;
+    height: 98px;
+    left: 600px;
+    top: 230px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: right;
+    
+    color: rgba(34, 34, 34, 0.1);
+
+}
+.imags
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    position: absolute;
+    top: 620px;
+    left: 300px;
+    width: 80%;
+}
+#btn_get
+{
+position: absolute;
+width: 212px;
+height: 50px;
+left: 870px;
+top: 863px;
+background: #DAA520;
+border-radius: 4px;
+border: none;
+}
