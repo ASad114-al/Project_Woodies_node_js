@@ -1,0 +1,87 @@
+#who
+{
+position: absolute;
+width: 900px;
+height: 49px;
+left: 308px;
+top: 300px;
+font-family: Nunito;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 49px;
+color: #3E3F43;
+}
+#who::before
+{
+    content: url(../img/Group28.png);
+}
+#about
+{
+position: absolute;
+width: 379px;
+height: 98px;
+left: 60%;
+top: 300px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 800;
+font-size: 72px;
+line-height: 98px;
+text-align: right;
+color: rgba(34, 34, 34, 0.1);
+}
+#salat
+{
+ position: absolute;
+width: 388px;
+height: 306px;
+left: 300px;
+top: 620px;
+}
+#divbackground
+{
+ position: absolute;
+width: 382px;
+height: 382px;
+left: 100px;
+top: 800px;
+background: url(../img/route.png);
+}
+#woodanswer
+{
+ position: absolute;
+width: 448px;
+height: 180px;
+left: 530px;
+top: 442px;
+}
+#WOODIES
+{
+ position: absolute;
+width: 448px;
+height: 98px;
+left: 604px;
+top: 242px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 49px;
+color: #3E3F43;
+}
+#answer
+
+{
+position: absolute;
+width: 448px;
+height: 66px;
+left: 604px;
+top: 356px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+color: #000000;
+}

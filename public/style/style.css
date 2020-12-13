@@ -11,7 +11,6 @@
     margin: 0;
     background-color: white;
     position: absolute;
-  
     width: 1152px;
     height: 864px;
     left: 150px;
@@ -36,21 +35,21 @@ header nav ul{
     list-style: none;
     justify-content: space-between;
     margin-right: 80px;
-
     display: flex;
     flex-direction: row;
     padding: 0px;
-
     position: absolute;
     width: 737px;
     height: 40px;
     left: 387px;
     top: 20px;
+    width: 60%;
 
     z-index: 999;
 }
 header nav ul li a{
     text-decoration: none;
+    
 }
 header nav ul li:hover a{
     color: #DAA520;
@@ -63,6 +62,7 @@ header nav ul li:last-of-type a{
     box-sizing: border-box;
     border-radius: 4px;
     padding: 10px 40px;
+    background: #F9BDBD;
 }
 
 .back{
@@ -78,34 +78,30 @@ header nav ul li:last-of-type a{
 main section{
     position: relative;
 }
-main section h3{
+ h3{
     position: absolute;
     width: 504px;
     height: 98px;
     left: 102px;
     top: 217px;
-
     font-family: Nunito;
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
     line-height: 49px;
-
     color: #3E3F43;
 }
-main section h1{
+ h1{
     position: absolute;
     width: 504px;
     height: 196px;
     left: 102px;
     top: 331px;
-
     font-family: Nunito;
     font-style: normal;
     font-weight: bold;
     font-size: 72px;
     line-height: 98px;
-
     color: #313235;
 }
 #img_home1{
