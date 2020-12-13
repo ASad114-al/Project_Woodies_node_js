@@ -8,15 +8,12 @@
     color:  #3E3F43
 }
 #imags
-{
-    position:absolute ;
+{   position:absolute ;
     top: 400px;
     left: 420px;
-
 }
 #slid
-{
-    margin-left: 75%;
+{    margin-left: 75%;
     margin-top: 3%;
 }
 footer
