@@ -1,0 +1,25 @@
+.whatTESTIMONY
+{
+    position: absolute;
+    width: 952px;
+    height: 98px;
+    left: 400px;
+    top: 200px;
+    color:  #3E3F43
+}
+#imags
+{
+    position:absolute ;
+    top: 400px;
+    left: 420px;
+
+}
+#slid
+{
+    margin-left: 75%;
+    margin-top: 3%;
+}
+footer
+{
+   margin-top: -20%;
+}
