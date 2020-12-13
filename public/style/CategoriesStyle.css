@@ -1,0 +1,22 @@
+.whatCategories
+{
+    position: absolute;
+    width: 952px;
+    height: 98px;
+    left: 400px;
+    top: 200px;
+    color:  #3E3F43;
+}
+.imags_categories
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   padding: 5px 5px;
+    position: absolute;
+    top: 450px;
+    left: 350px;
+    width: 70%;
+    height: 5vh;
+   
+}
+
